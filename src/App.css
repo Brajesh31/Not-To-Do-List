@@ -1,0 +1,14 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.wrapper {
+  min-width: 100vw;
+  min-height: 100vh;
+  background-color: rgba(62, 95, 120, 0.8);
+}
+
+.table {
+  --bs-table-bg: transparent;
+}
